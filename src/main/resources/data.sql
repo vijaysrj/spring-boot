@@ -1,0 +1,7 @@
+
+
+INSERT INTO DEV_TEAM VALUES
+
+(1,'JOHN','2 YEARS','JAVA'),
+(2,'Gaurav','5 YEARS','SQL'),
+(3,'Tom','3 YEARS','ANGULAR');
